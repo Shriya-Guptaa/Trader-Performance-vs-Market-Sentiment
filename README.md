@@ -7,13 +7,19 @@ Analyze how market sentiment (Fear/Greed) impacts:
 - Different trader segments
 
 ## Project Folder structure
+
+
+```
 .
-├── Trader_Performance_vs_Market_Sentiment.ipynb    # Main notebook (clean, no outputs)
-├── content/                                        # Datasets used
-├── outputs/                                        # Output charts
-├── Insights.md                                     # Documentation of the analysis and insight gained from the project
-├── LICENSE      
-└── README.md
+├── Trader_Performance_vs_Market_Sentiment.ipynb   # Main notebook (clean, no outputs)
+├── content/                                       # Datasets used
+├── outputs/                                       # Output charts
+├── Insights.md                                    # Documentation of the analysis and insight gained from the project
+├── LICENSE
+└── README.md                                      # Setup and how to run
+
+```
+
 
 ##  How to Run
 
