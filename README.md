@@ -47,6 +47,6 @@ Trader_Performance_vs_Market_Sentiment.ipynb
 Run all cells sequentially.
 
 ---
-For more insight refer to 
+For more insight refer to [analysis-and-Insight](https://github.com/Shriya-Guptaa/Trader-Performance-vs-Market-Sentiment/blob/f631358833a3ce64ce8bba7df99c67dfa1bee320/Insights.md)
 
 
